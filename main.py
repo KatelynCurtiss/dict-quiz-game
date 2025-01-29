@@ -39,4 +39,4 @@ for question in questions:
     if user_answer == correct_answer:
        score = score + 10
 
-print("Ypur score is = ", score)
+print("Your score is = ", score)
